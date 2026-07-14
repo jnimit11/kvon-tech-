@@ -1,0 +1,3 @@
+Python is awesome.
+Learning Python.
+This is Nimit
